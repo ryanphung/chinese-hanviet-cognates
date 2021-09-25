@@ -123,11 +123,53 @@ This is nowhere near foolproofed, and it depends on the quality of this file `vi
 
 ### List of Han Viet cognates
 
-The full list of 8141 words can be downloaded from [chinese-hanviet-cognates.tsv](outputs/chinese-hanviet-cognates.tsv)
+The full list of 8,141 words can be downloaded from [chinese-hanviet-cognates.tsv](outputs/chinese-hanviet-cognates.tsv). An example of the first 100 entries can be found at the end of this document.
 
 It could be useful for a Vietnamese learning Chinese looking for a list of easy to learn words.
 
-Here is an example of the first 100 entries:
+The full list of 20,816 non-cognates can also be downloaded from [chinese-hanviet-non-cognates.tsv](outputs/chinese-hanviet-non-cognates.tsv). This is also an interesting list to look at because while the first list sounds familiar to a Vietnamese speaker, this second list almost feels like it's an entirely different language.
+
+### Chart
+
+I also plotted the first column against the second column:
+
+![img](./outputs/chart.jpg)
+
+As can be seen from this, around 1/3 of the most frequently used modern Chinese phrases have a Han Viet cognate.
+
+The steeper slope on the left side of the chart means that this ratio is slightly higher among the top most frequently used Chinese phrases.
+
+### Limitations
+
+1. This is perhaps the biggest limitation: as can be seen from the example list above, words like `大家` is indicated as having its cognate as `đại gia` (influential family). While this is technically true, this meaning is not as frequently used as the common meaning `mọi người` (everybody); certainly not frequently enough to warrant it to be in the top 36th spot. This is a problem with frequency list - there is no distinction between different meanings of the same word. Therefore, if you are a language learner, you should use this list with care and bear in mind that quite often these Chinese words don't have the same meaning as the primary meaning of the Han Viet words.
+
+2. The project is done based on a frequency list, which means that it is based on Chinese phrases rather than words (as opposed to using a dictionary). However I believe that for the purpose of language learning, this is more useful.
+
+3. I decided to remove single-syllabic words from the result because I think most single-syllabic cognates are not well-understood by native Vietnamese speakers. For example words like `骑 / kỵ` may be marked as a valid Han Viet word; but many people will have no idea what it means, unless it's put in the context of a multi-syllabic word like `骑士 / kỵ sĩ`. Again, this is a practical decision, motivated by my language learning need.
+
+4. The result is only as good as the data I have, which is to say, not research quality. I haven't manually vetted through any of the input data. But I believe it's good enough for my language learning need.
+
+5. As mentioned above, I ignored the Old Sino-Vietnamese layers. This is because on one hand, identifying them is HARD, and on the other hand, these words have diverged enough from their modern Chinese cognates that it's not too useful for language learners to know them.
+
+# Further Works
+
+* More analysis on single-syllabic cognates.
+
+* Better data quality.
+
+# Credits
+
+* [Leeds database](http://corpus.leeds.ac.uk/frqc/internet-zh.num)
+* [BLCU database](https://www.plecoforums.com/threads/word-frequency-list-based-on-a-15-billion-character-corpus-bcc-blcu-chinese-corpus.5859/)
+* Thiều Chữu dictionary
+* vietphrases.txt provided by Chinese-Vietnamese translation community
+* Thanks to [anh Tran Chi Hieu](https://www.facebook.com/504631273/) for contributing valuable advices and data
+
+All data are owned by their respective owners. As much as I can, I try to cite the source of the data. If you are the owner of the data and would like your data to be removed, please email me at ryan.phung@gmail.com.
+
+# Appendix
+
+Top 100 Chinese - Han Viet cognates:
 |index|chinese_rank|frequency|word|traditional|pinyin   |matched    |meaning                                                                                                                                                                                                    |
 |-----|------------|---------|----|-----------|---------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |1    |5           |1332.15  |可以  |可以         |kěyǐ     |khả dĩ     |có thể/khả dĩ/có khả năng/có năng lực/cho phép/được phép/tốt/giỏi/hay/lợi hại/ghê hồn/cừ khôi/ghê gớm                                                                                                      |
@@ -230,42 +272,3 @@ Here is an example of the first 100 entries:
 |98   |205         |203.87   |故事  |故事         |gùshì    |cố sự      |chuyện xưa/cố sự/lề thói lâu nay/chế độ làm việc cũ/lệ cũ/truyện/câu chuyện/tình tiết/cốt truyện                                                                                                           |
 |99   |208         |201.14   |原来  |原來         |yuánlái  |nguyên lai |nguyên lai/ban sơ/lúc đầu/vốn/vốn dĩ/té ra/hoá ra/thì ra                                                                                                                                                   |
 |100  |210         |199.82   |国际  |國際         |guójì    |quốc tế    |quốc tế                                                                                                                                                                                                    |
-
-
-### Chart
-
-I also plotted the first column against the second column:
-
-![img](./outputs/chart.jpg)
-
-As can be seen from this, around 1/3 of the most frequently used modern Chinese phrases have a Han Viet cognate.
-
-The steeper slope on the left side of the chart means that this ratio is slightly higher among the top most frequently used Chinese phrases.
-
-### Limitations
-
-1. This is perhaps the biggest limitation: as can be seen from the example list above, words like `大家` is indicated as having its cognate as `đại gia` (influential family). While this is technically true, this meaning is not as frequently used as the common meaning `mọi người` (everybody); certainly not frequently enough to warrant it to be in the top 36th spot. This is a problem with frequency list - there is no distinction between different meanings of the same word. Therefore, if you are a language learner, you should use this list with care and bear in mind that quite often these Chinese words don't have the same meaning as the primary meaning of the Han Viet words.
-
-2. The project is done based on a frequency list, which means that it is based on Chinese phrases rather than words (as opposed to using a dictionary). However I believe that for the purpose of language learning, this is more useful.
-
-3. I decided to remove single-syllabic words from the result because I think most single-syllabic cognates are not well-understood by native Vietnamese speakers. For example words like `骑 / kỵ` may be marked as a valid Han Viet word; but many people will have no idea what it means, unless it's put in the context of a multi-syllabic word like `骑士 / kỵ sĩ`. Again, this is a practical decision, motivated by my language learning need.
-
-4. The result is only as good as the data I have, which is to say, not research quality. I haven't manually vetted through any of the input data. But I believe it's good enough for my language learning need.
-
-5. As mentioned above, I ignored the Old Sino-Vietnamese layers. This is because on one hand, identifying them is HARD, and on the other hand, these words have diverged enough from their modern Chinese cognates that it's not too useful for language learners to know them.
-
-# Further Works
-
-* More analysis on single-syllabic cognates.
-
-* Better data quality.
-
-# Credits
-
-* [Leeds database](http://corpus.leeds.ac.uk/frqc/internet-zh.num)
-* [BLCU database](https://www.plecoforums.com/threads/word-frequency-list-based-on-a-15-billion-character-corpus-bcc-blcu-chinese-corpus.5859/)
-* Thiều Chữu dictionary
-* vietphrases.txt provided by Chinese-Vietnamese translation community
-* Thanks to [anh Tran Chi Hieu](https://www.facebook.com/504631273/) for contributing valuable advices and data
-
-All data are owned by their respective owners. As much as I can, I try to cite the source of the data. If you are the owner of the data and would like your data to be removed, please email me at ryan.phung@gmail.com.
