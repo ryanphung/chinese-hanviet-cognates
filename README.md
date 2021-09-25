@@ -151,11 +151,15 @@ The steeper slope on the left side of the chart means that this ratio is slightl
 
 5. As mentioned above, I ignored the Old Sino-Vietnamese layers. This is because on one hand, identifying them is HARD, and on the other hand, these words have diverged enough from their modern Chinese cognates that it's not too useful for language learners to know them.
 
+6. Thiều Chữu dictionary sometimes contain only a variant of the character that is neither Simplified nor Traditional. For example: `硏` instead of `研`, or `伱` instead of `你`. As a result, we missed out picking up cognates such as `研究 / nghiên cứu`.
+
 # Further Works
 
 * More analysis on single-syllabic cognates.
 
-* Better data quality.
+* Replace Thiều Chữu dictionary with a more comprehensive way to produce Han Viet sound. Perhaps [Thi Vien](https://hvdic.thivien.net/)?
+
+* Manual vetting of the results.
 
 # Credits
 
