@@ -149,11 +149,11 @@ The steeper slope on the left side of the chart means that this ratio is slightl
 
 3. I decided to remove single-syllabic words from the result because I think most single-syllabic cognates are not well-understood by native Vietnamese speakers. For example words like `骑 / kỵ` may be marked as a valid Han Viet word; but many people will have no idea what it means, unless it's put in the context of a multi-syllabic word like `骑士 / kỵ sĩ`. Again, this is a practical decision, motivated by my language learning need.
 
-4. The result is only as good as the data I have, which is to say, not research quality. I haven't manually vetted through any of the input data. But I believe it's good enough for my language learning need.
+4. As mentioned above, I ignored the Old Sino-Vietnamese layers. This is because on one hand, identifying them is HARD, and on the other hand, these words have diverged enough from their modern Chinese cognates that it's not too useful for language learners to know them.
 
-5. As mentioned above, I ignored the Old Sino-Vietnamese layers. This is because on one hand, identifying them is HARD, and on the other hand, these words have diverged enough from their modern Chinese cognates that it's not too useful for language learners to know them.
+5. There is also a problem of matching different spelling variations of the same Vietnamese word. For example, the system fails to detect `công ti` as a match of `công ty`. As a result, some of these words are missed out from the final result.
 
-6. There is also a problem of matching different spelling variations of the same Vietnamese word. For example, the system fails to detect `công ti` as a match of `công ty`. As a result, some of these words are missed out from the final result.
+6. On the other hand, some words are misidentified as a cognate. For example: `一些 / nhất ta` - I don't think this is a legitimate modern Vietnamese word). At the end of the day, the result is only as good as the data I have, which is not of research-quality. I haven't manually vetted through any of the input data. But I believe it's good enough for my language learning need.
 
 # Further Works
 
