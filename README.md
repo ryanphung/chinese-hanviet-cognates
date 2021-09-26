@@ -161,6 +161,8 @@ The steeper slope on the left side of the chart means that this ratio is slightl
 
 * Replace Thiều Chữu dictionary with a more comprehensive way to produce Han Viet sound. Perhaps [Thi Vien](https://hvdic.thivien.net/)?
 
+* Run the final results against a more colloquial Vietnamese word list, to weed out "dictionary" words that the common man is not familiar with. For example [this frequency list](https://github.com/garfieldnate/vi_experiments/tree/master/opensubs_word_list) collected from Open Subtitles.
+
 * Manual vetting of the results.
 
 # Credits
