@@ -117,13 +117,15 @@ The first word, ```批准``` is a cognate with the Han Viet word ```phê chuẩn
 
 The second word ```黑脸```, even though producing three Han Viet sound ```hắc kiểm, hắc liễm, hắc kiểm```, none of these is a valid Han Viet word. That's why the Vietnamese translation only include the native Vietnamese word ```mặt đen```.
 
-That is the trick we're going to do here: we're going to recognize a word as a valid Han Viet word if its Han Viet sound exist in the translation.
+That is the trick we're going to do here: we're going to recognise a word as a valid Han Viet word if its Han Viet sound exist in the translation.
 
-This is nowhere near foolproofed, and it depends on the quality of this file `vietphrases.txt`. But our assumption here is that if a word is good enough to be included in the Vietnamese translation by the translation community, we're going to assume that it is a word recognisable by a typical Vietnamese.
+This is nowhere near fool-proofed, and it depends on the quality of this file `vietphrases.txt`. But our assumption here is that if a word is good enough to be included in the Vietnamese translation by the translation community, we're going to assume that it is a word recognisable by a typical Vietnamese.
+
+In addition, some Vietnamese words have a few spelling variants. The most common one is replacing `y` with `i`, or vice-versa. For example: `công ti` and `công ty` are the same word. In this step if we only do a naive string comparison, we'll end up missing out these words in the final result. Thus we normalised the words first to a single form: `công ti`, `mĩ thuật`, etc. before comparing them.
 
 ### 4. Weed out the really uncommon words
 
-Finally, we must realize that a lot of Han Viet words are still rather uncommon words that a typical Vietnamese speaker might not be familiar with. In this step, we will weed out these words by running the list against a colloquial Vietnamese [word frequency list](https://github.com/garfieldnate/vi_experiments/tree/master/opensubs_word_list) collected from Open Subtitles. Words that have a frequency of 1, or do not exist in that list, are removed from the final results.
+Finally, we realised that a lot of resulting words, like like `一些 / nhất ta`, are still either not real Vietnamese words, or are uncommon enough that a typical Vietnamese speaker might not be familiar with. In this step, we will weed out these words by running the list against a colloquial Vietnamese [word frequency list](https://github.com/garfieldnate/vi_experiments/tree/master/opensubs_word_list) collected from Open Subtitles. Words that have a frequency of 1, or do not exist in that list, are removed from the final results.
 
 # Results
 
@@ -154,10 +156,6 @@ As can be seen from this, around 1/2 to 1/4 of the most frequently used modern C
 3. I decided to remove single-syllabic words from the result because I think most single-syllabic cognates are not well-understood by native Vietnamese speakers. For example words like `骑 / kỵ` may be marked as a valid Han Viet word; but many people will have no idea what it means, unless it's put in the context of a multi-syllabic word like `骑士 / kỵ sĩ`. Again, this is a practical decision, motivated by my language learning need.
 
 4. As mentioned above, I ignored the Old Sino-Vietnamese layers. This is because on one hand, identifying them is HARD, and on the other hand, these words have diverged enough from their modern Chinese cognates that it's not too useful for language learners to know them.
-
-5. There is also a problem of matching different spelling variations of the same Vietnamese word. For example, the system fails to detect `công ti` as a match of `công ty`. As a result, some of these words are missed out from the final result.
-
-6. On the other hand, some words are misidentified as a cognate. For example: `一些 / nhất ta` - I don't think this is a legitimate modern Vietnamese word). At the end of the day, the result is only as good as the data I have, which is not of research-quality. I haven't manually vetted through any of the input data. But I believe it's good enough for my language learning need.
 
 # Further Works
 
