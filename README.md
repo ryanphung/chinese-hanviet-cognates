@@ -62,13 +62,13 @@ I also want to have a nice list of these words, so that perhaps I could focus on
 
 ### 1. Starting with Chinese phrases
 
-To start off, we need a Chinese words frequency list. I chose the [Leeds database](http://corpus.leeds.ac.uk/frqc/internet-zh.num); but I've also included the [BLCU database](https://www.plecoforums.com/threads/word-frequency-list-based-on-a-15-billion-character-corpus-bcc-blcu-chinese-corpus.5859/) which can be run against with some minor tweaks in the code. Either of them should be good for our purpose.
+First, we need a Chinese words frequency list. I chose the [Leeds database](http://corpus.leeds.ac.uk/frqc/internet-zh.num); but I've also included the [BLCU database](https://www.plecoforums.com/threads/word-frequency-list-based-on-a-15-billion-character-corpus-bcc-blcu-chinese-corpus.5859/) which can be run against with some minor tweaks in the code. Either of them should be good for our purpose.
 
 Note that both lists are based on Simplified Chinese.
 
 ### 2. Translating to Han Viet sounds
 
-Next, we need to find the corresponding Han Viet sounds for each Chinese words. This is done by looking up the [Thiều Chữu dictionary](https://vi.wikipedia.org/wiki/Thi%E1%BB%81u_Ch%E1%BB%ADu).
+Second, we need to find the corresponding Han Viet sounds for each Chinese words. This is done by looking up the [Thiều Chữu dictionary](https://vi.wikipedia.org/wiki/Thi%E1%BB%81u_Ch%E1%BB%ADu).
 
 The Thiều Chữu dictionary is character-dictionary, not word. It means that for each word, we need to find out the sound for each character and combine them together. For example:
 ```
@@ -105,7 +105,7 @@ There is also a problem with the Thiều Chữu dictionary where some character 
 
 ### 3. Which ones are legitimate Han Viet words?
 
-Finally, we need to find out which one of these Han Viet sounds are actually valid modern Han Viet words.
+Third, we need to find out which one of these Han Viet sounds are actually valid modern Han Viet words.
 
 To do this, we rely on the file [vietphrases.txt](inputs/vietphrases.txt) produced by a Vietnamese translation community (`source missing`). This file contains the translation of common Chinese phrases. Let's take a look at a few examples:
 
@@ -121,15 +121,19 @@ That is the trick we're going to do here: we're going to recognize a word as a v
 
 This is nowhere near foolproofed, and it depends on the quality of this file `vietphrases.txt`. But our assumption here is that if a word is good enough to be included in the Vietnamese translation by the translation community, we're going to assume that it is a word recognisable by a typical Vietnamese.
 
+### 4. Weed out the really uncommon words
+
+Finally, we must realize that a lot of Han Viet words are still rather uncommon words that a typical Vietnamese speaker might not be familiar with. In this step, we will weed out these words by running the list against a colloquial Vietnamese [word frequency list](https://github.com/garfieldnate/vi_experiments/tree/master/opensubs_word_list) collected from Open Subtitles. Words that have a frequency of 1, or do not exist in that list, are removed from the final results.
+
 # Results
 
 ### List of Han Viet cognates
 
-The full list of 4,501 words can be downloaded from [chinese-hanviet-cognates.tsv](outputs/chinese-hanviet-cognates.tsv). An example of the first 100 entries can be found at the end of this document.
+The full list of 4,543 words can be downloaded from [chinese-hanviet-cognates.tsv](outputs/chinese-hanviet-cognates.tsv). An example of the first 100 entries can be found at the end of this document.
 
 It could be useful for a Vietnamese learning Chinese looking for a list of easy to learn words.
 
-The full list of 28,956 non-cognates can also be downloaded from [chinese-hanviet-non-cognates.tsv](outputs/chinese-hanviet-non-cognates.tsv). This is also an interesting list to look at because while the first list sounds familiar to a Vietnamese speaker, this second list almost feels like it's an entirely different language.
+The full list of 24,414 non-cognates can also be downloaded from [chinese-hanviet-non-cognates.tsv](outputs/chinese-hanviet-non-cognates.tsv). This is also an interesting list to look at because while the first list sounds familiar to a Vietnamese speaker, this second list almost feels like it's an entirely different language.
 
 ### Chart
 
@@ -137,9 +141,9 @@ I also plotted the first column against the second column:
 
 ![img](./outputs/chart.jpg)
 
-As can be seen from this, around 1/5-1/6 of the most frequently used modern Chinese phrases have a Han Viet cognate.
+I only consider the top 10,000 Chinese words since we're only considering the common Vietnamese words. The graph is expected to flatten out as we go into the area of uncommon words.
 
-The steeper slope on the left side of the chart means that this ratio is slightly higher among the top most frequently used Chinese phrases.
+As can be seen from this, around 1/2 to 1/4 of the most frequently used modern Chinese phrases have a Han Viet cognate.
 
 ### Limitations
 
@@ -160,8 +164,6 @@ The steeper slope on the left side of the chart means that this ratio is slightl
 * More analysis on single-syllabic cognates.
 
 * Replace Thiều Chữu dictionary with a more comprehensive way to produce Han Viet sound. Perhaps [Thi Vien](https://hvdic.thivien.net/)?
-
-* Run the final results against a more colloquial Vietnamese word list, to weed out "dictionary" words that the common man is not familiar with. For example [this frequency list](https://github.com/garfieldnate/vi_experiments/tree/master/opensubs_word_list) collected from Open Subtitles. I haven't added this to this Jupyter notebook, but I've done it in Google Sheet and you can download this cleaned up list here: [here](https://docs.google.com/spreadsheets/d/1Kub_t0bWny34OlFe8bdO8kSVXyQiVoRUIywLcGameFg/edit?usp=sharing).
 
 * Manual vetting of the results.
 
