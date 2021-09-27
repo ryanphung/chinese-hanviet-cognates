@@ -3,7 +3,7 @@
 This Jupyter Notebook aims to answer this question:
 
 ```
-How many modern Chinese words have a modern Vietnamese Han Viet cognate?
+How many modern Chinese words have a modern Vietnamese Han Viet cognate? And what are they?
 ```
 
 # Getting Started
@@ -47,7 +47,7 @@ But how easy?
 I set out to answer this question. More specifically, this:
 
 ```
-How many modern Chinese words have a modern Vietnamese Han Viet cognate?
+How many modern Chinese words have a modern Vietnamese Han Viet cognate? And what are they?
 ```
 
 I also want to have a nice list of these words, so that perhaps I could focus on studying first, to be more efficient with my vocabulary building.
