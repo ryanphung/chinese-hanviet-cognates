@@ -173,6 +173,7 @@ As can be seen from this, around 1/2 to 1/4 of the most frequently used modern C
 * [BLCU database](https://www.plecoforums.com/threads/word-frequency-list-based-on-a-15-billion-character-corpus-bcc-blcu-chinese-corpus.5859/)
 * Thiều Chữu dictionary
 * **vietphrases.txt** and **phienam.txt** provided by Chinese-Vietnamese translation community
+* [OpenSubtitles-based Vietnamese Frequency Dictionary](https://github.com/garfieldnate/vi_experiments/tree/master/opensubs_word_list)
 * Thanks to [anh Tran Chi Hieu](https://www.facebook.com/504631273/) for contributing valuable advices and data
 
 All data are owned by their respective owners. As much as I can, I try to cite the source of the data. If you are the owner of the data and would like your data to be removed, please email me at ryan.phung@gmail.com.
