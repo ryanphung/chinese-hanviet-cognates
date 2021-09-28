@@ -131,11 +131,11 @@ Finally, we realised that a lot of resulting words, like like `一些 / nhất t
 
 ### List of Han Viet cognates
 
-The full list of 4,543 words can be downloaded from [chinese-hanviet-cognates.tsv](outputs/chinese-hanviet-cognates.tsv). An example of the first 100 entries can be found at the end of this document.
+The full list of 4,558 words can be downloaded from [chinese-hanviet-cognates.tsv](outputs/chinese-hanviet-cognates.tsv). An example of the first 100 entries can be found at the end of this document.
 
 It could be useful for a Vietnamese learning Chinese looking for a list of easy to learn words.
 
-The full list of 24,414 non-cognates can also be downloaded from [chinese-hanviet-non-cognates.tsv](outputs/chinese-hanviet-non-cognates.tsv). This is also an interesting list to look at because while the first list sounds familiar to a Vietnamese speaker, this second list almost feels like it's an entirely different language.
+The full list of 24,399 non-cognates can also be downloaded from [chinese-hanviet-non-cognates.tsv](outputs/chinese-hanviet-non-cognates.tsv). This is also an interesting list to look at because while the first list sounds familiar to a Vietnamese speaker, this second list almost feels like it's an entirely different language.
 
 ### Chart
 
