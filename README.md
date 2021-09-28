@@ -125,7 +125,7 @@ In addition, some Vietnamese words have a few spelling variants. The most common
 
 ### 4. Weed out the really uncommon words
 
-Finally, we realised that a lot of resulting words, like like `一些 / nhất ta`, are still either not real Vietnamese words, or are uncommon enough that a typical Vietnamese speaker might not be familiar with. In this step, we will weed out these words by running the list against a colloquial Vietnamese [word frequency list](https://github.com/garfieldnate/vi_experiments/tree/master/opensubs_word_list) collected from Open Subtitles. Words that have a frequency of 1, or do not exist in that list, are removed from the final results.
+Finally, we realised that a lot of resulting words, like like `一些 / nhất ta`, are still either not real Vietnamese words, or are uncommon enough that a typical Vietnamese speaker might not be familiar with. In this step, we will weed out these words by running the list against a colloquial Vietnamese [word frequency list](https://github.com/garfieldnate/vi_experiments/tree/master/opensubs_word_list) collected from Open Subtitles. Words that do not exist in that list are removed from the final results.
 
 # Results
 
