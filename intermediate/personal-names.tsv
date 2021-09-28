@@ -1,7 +1,7 @@
 index	chinese_rank	frequency	word	traditional	pinyin	matched	meaning
 2	8	1106.78	中国	中國	zhōngguó	trung quốc	Trung Quốc/Trung Hoa Trung Quốc/China/nước cộng hoà nhân dân Trung Hoa
 13	48	467.23	北京	北京	běijīng	bắc kinh	Bắc Kinh/Beijing
-51	120	278.73	日本	日本	rìběn	nhật bổn/nhật bản	Nhật Bổn/Nhật bản
+51	120	278.73	日本	日本	rìběn	nhật bản/nhật bổn	Nhật Bổn/Nhật bản
 52	124	273.66	英语	英語	yīngyǔ	anh ngữ	tiếng Anh/Anh ngữ/Anh văn
 67	148	248.2	上海	上海	shànghǎi	thượng hải	Thượng Hải/thành phố Thượng Hải
 122	277	162.97	台湾	臺灣	táiwān	đài loan	Đài Loan/Taiwan
@@ -160,7 +160,7 @@ index	chinese_rank	frequency	word	traditional	pinyin	matched	meaning
 3802	18968	1.59	陈某	陳某	chénmǒu	trần mỗ	Trần mỗ
 3817	19152	1.57	辽东	遼東	liáodōng	liêu đông	Liêu Đông
 3892	20013	1.45	平定	平定	píngdìng	bình định	bình định/ĐỊNH/ổn định/yên ổn/dẹp yên/Bình Định/tỉnh Bình Định
-3944	20671	1.36	李小龙	李小龍	lǐxiǎolóng	lý tiểu long/lí tiểu long	Lý Tiểu Long
+3944	20671	1.36	李小龙	李小龍	lǐxiǎolóng	lí tiểu long/lý tiểu long	Lý Tiểu Long
 4004	21234	1.29	北伐	北伐	běifá	bắc phạt	Bắc Phạt/quân bắc phạt
 4030	21556	1.25	太尉	太尉	tàiwèi	thái úy	Thái úy/thái uý
 4036	21667	1.23	南朝	南朝	nánzhāo	nam triều	nam triều/Nam Triều

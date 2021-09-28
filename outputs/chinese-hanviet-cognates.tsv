@@ -86,7 +86,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 181	219.81	参加	參加	cānjiā	tham gia	tham gia/gia nhập/tham dự/dự/đề xuất/đưa ra/cho/góp
 185	216.27	历史	歷史	lìshǐ	lịch sử	lịch sử/trong lịch sử/ghi chép những sự việc đã qua/môn lịch sử/lịch sử học
 186	215.99	母亲	母親	mǔqīn	mẫu thân	mẫu thân/mẹ/má/me/u
-192	213.58	技术	技術	jìzhú	kỹ thuật/kĩ thuật	kỹ thuật/trang bị kỹ thuật/trang thiết bị
+192	213.58	技术	技術	jìzhú	kĩ thuật/kỹ thuật	kỹ thuật/trang bị kỹ thuật/trang thiết bị
 194	209.72	继续	繼續	jìxù	kế tục	tiếp tục/kế tục/kéo dài/kế thừa/tiếp nối
 195	209.43	影响	影響	yǐngxiǎng	ảnh hưởng	ảnh hưởng/bị ảnh hưởng/chịu ảnh hưởng/vô căn cứ/đồn đại
 196	209.02	服务	服務	fúwù	phục vụ	phục vụ/phụng sự
@@ -96,7 +96,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 210	199.82	国际	國際	guójì	quốc tế	quốc tế
 213	198.21	专业	專業	zhuānyè	chuyên nghiệp	chuyên nghiệp/môn/bộ môn/chuyên ngành
 221	192.09	包括	包括	bāokuò	bao quát	chính là/bao quát/bao gồm/gồm/có/gồm có/tính đến/kể cả/chất chứa
-223	191.54	离开	離開	líkāi	ly khai/li khai	rời đi/ly khai/rời khỏi/tách khỏi
+223	191.54	离开	離開	líkāi	li khai/ly khai	rời đi/ly khai/rời khỏi/tách khỏi
 225	190.2	介绍	介紹	jièshào	giới thiệu	giới thiệu/mở đầu/đưa vào/truyền vào/hiểu rõ/nắm được/rành/quen thuộc/nắm rành
 226	190.05	认识	認識	rènshì	nhận thức	nhận thức/biết/nhận biết
 227	189.18	爸爸	爸爸	bàbà	ba ba	ba ba
@@ -138,7 +138,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 319	149.76	存在	存在	cúnzài	tồn tại	tồn tại/còn/có thật/thực sự/đã sống/vật chất/sự sống/sự tồn tại/sinh kế
 320	149.13	第三	第三	dìsān	đệ tam	đệ tam/thứ ba
 324	148.77	根据	根據	gēnjù	căn cứ	căn cứ/căn cứ vào/dựa vào/chứng cứ/luận cứ
-326	147.86	女儿	女兒	nv̌ér	nữ nhân/nữ nhi	nữ nhân/nữ nhi/con gái
+326	147.86	女儿	女兒	nv̌ér	nữ nhi/nữ nhân	nữ nhân/nữ nhi/con gái
 327	147.73	左右	左右	zuǒyòu	tả hữu	tả hữu/hai bên/trái và phải/xung quanh/tuỳ tùng/người đi theo/chi phối/thao túng/khoảng/chừng/vào khoảng/trên dưới/dù sao cũng/dù sao đi nữa
 328	147.52	生命	生命	shēngmìng	sinh mệnh	sinh mệnh/tính mệnh/mạng sống
 330	147.15	代表	代表	dàibiǎo	đại biểu	đại biểu/đại diện/tiêu biểu/thay mặt
@@ -188,7 +188,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 427	118.42	说明	說明	shuōmíng	thuyết minh	thuyết minh/nói rõ/rằng/giải thích rõ/lời giải thích/lời thuyết minh/chứng minh
 428	117.85	安排	安排	ānpái	an bài	an bài/sắp đặt/sắp xếp/bố trí/thu xếp/cách bố trí/sự trình bày/sự sắp đặt/sơ đồ bố trí/ma-két/dạng thức
 431	117.55	小说	小說	xiǎoshuō	tiểu thuyết	tiểu thuyết
-433	117.41	世纪	世紀	shìjì	thế kỷ/thế kỉ	thế kỷ/một trăm năm
+433	117.41	世纪	世紀	shìjì	thế kỉ/thế kỷ	thế kỷ/một trăm năm
 434	117.31	人生	人生	rénshēng	nhân sinh	nhân sinh/đời người
 437	116.78	大概	大概	dàgài	đại khái	đại khái/nét chính/sơ lược/sơ sơ/chung chung/có thể/có lẽ/khoảng
 438	116.75	警察	警察	jǐngchá	cảnh sát	cảnh sát
@@ -210,7 +210,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 475	110.68	报告	報告	bàogào	báo cáo	báo cáo/bản báo cáo/bản phát biểu
 476	110.28	建筑	建築	jiànzhú	kiến trúc	kiến trúc/xây dựng/xây/gầy dựng/vật kiến trúc/công trình kiến trúc/toà nhà/công trình
 477	110.26	分析	分析	fēnxī	phân tích	phân tích
-483	109.33	处理	處理	chùlǐ	xử lý/xử lí	xử lý/sắp xếp/giải quyết/xoay xở/khắc phục/an bài/hàng thanh lí/hàng giảm giá/xử trí/cư xử/đối đãi/soạn thảo
+483	109.33	处理	處理	chùlǐ	xử lí/xử lý	xử lý/sắp xếp/giải quyết/xoay xở/khắc phục/an bài/hàng thanh lí/hàng giảm giá/xử trí/cư xử/đối đãi/soạn thảo
 484	109.29	投资	投資	tóuzī	đầu tư	đầu tư/bỏ vốn/đầu tư vốn/vốn đầu tư/tiền bỏ ra/tiền vốn
 486	109.13	意义	意義	yìyì	ý nghĩa	ý nghĩa/tầm quan trọng/giá trị/tác dụng
 489	108.53	成绩	成績	chéngjī	thành tích	thành tích/thành tựu/đạt được/hoàn thành
@@ -228,7 +228,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 516	103.35	文字	文字	wénzì	văn tự	văn tự/chữ nghĩa/chữ viết/chữ/văn/hành văn/lời văn
 517	103.1	造成	造成	zàochéng	tạo thành	tạo thành
 518	103.04	作用	作用	zuòyòng	tác dụng	tác dụng/ảnh hưởng/hiệu quả/hiệu dụng/dụng ý
-519	103.04	心理	心理	xīnlǐ	tâm lý/tâm lí	tâm lý/lòng/chỉ hoạt động tư tưởng, tình cảm của con người
+519	103.04	心理	心理	xīnlǐ	tâm lí/tâm lý	tâm lý/lòng/chỉ hoạt động tư tưởng, tình cảm của con người
 521	102.93	坚持	堅持	jiānchí	kiên trì	kiên trì/giữ vững/khăng khăng giữ
 531	101.54	加入	加入	jiārù	gia nhập	gia nhập/thêm vào/thêm/tham gia/gia nhập vào
 532	101.42	不可	不可	bùkě	bất khả	không thể/bất khả/không được/không sao/không thể ... được/không ... không được/không thể không
@@ -300,7 +300,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 677	83.44	质量	質量	zhíliàng	chất lượng	chất lượng/khối lượng/chất
 679	83.19	材料	材料	cáiliào	tài liệu	tài liệu/vật liệu/tư liệu/tư liệu tham khảo/vốn quý/nhân tài
 680	83.04	唯一	唯一	wéiyī	duy nhất	duy nhất
-685	82.41	奇怪	奇怪	qíguài	kỳ quái/kì quái	kỳ quái/kỳ lạ/quái lạ/lạ lùng/quái gở/ngoài dự tính/khó hiểu
+685	82.41	奇怪	奇怪	qíguài	kì quái/kỳ quái	kỳ quái/kỳ lạ/quái lạ/lạ lùng/quái gở/ngoài dự tính/khó hiểu
 686	82.36	现场	現場	xiàncháng	hiện trường	hiện trường/nơi trực tiếp sản xuất, làm việc, thực nghiệm
 687	82.31	战争	戰爭	zhànzhēng	chiến tranh	chiến tranh
 688	82.27	中间	中間	zhōngjiān	trung gian	trung gian/giữa/ở giữa/bên trong/trung tâm/chính giữa
@@ -318,7 +318,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 714	80.33	共同	共同	gòngtóng	cộng đồng	cộng đồng/chung/cùng
 715	80.12	广州	廣州	guǎngzhōu	quảng châu	Quảng Châu
 717	79.72	工人	工人	gōngrén	công nhân	công nhân/thợ/thợ thuyền
-718	78.93	记忆	記憶	jìyì	ký ức/kí ức	trí nhớ/ký ức/nhớ/nhớ lại/hồi tưởng
+718	78.93	记忆	記憶	jìyì	kí ức/ký ức	trí nhớ/ký ức/nhớ/nhớ lại/hồi tưởng
 725	78.58	享受	享受	xiǎngshòu	hưởng thụ	hưởng thụ
 728	78.42	主题	主題	zhǔtí	chủ đề	chủ đề/nội dung chính/nội dung chủ yếu
 730	78.27	太阳	太陽	tàiyáng	thái dương	thái dương/mặt trời/vầng thái dương/ánh sáng mặt trời/ánh nắng/màng tang/huyệt thái dương
@@ -335,7 +335,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 750	75.94	感谢	感謝	gǎnxiè	cảm tạ	cảm tạ/cảm ơn
 752	75.78	周围	周圍	zhōuwéi	chu vi	chung quanh/chu vi/xung quanh
 755	75.69	速度	速度	sùdù	tốc độ	tốc độ/mức độ nhanh chậm
-757	75.66	理由	理由	lǐyóu	lý do/lí do	lý do/cớ
+757	75.66	理由	理由	lǐyóu	lí do/lý do	lý do/cớ
 758	75.62	农村	農村	nóngcūn	nông thôn	nông thôn
 759	75.47	优秀	優秀	yōuxìu	ưu tú	vĩ đại/ưu tú/xuất sắc
 762	75.02	兴趣	興趣	xīngqù	hứng thú	hứng thú/thích thú
@@ -443,7 +443,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 980	60.13	机构	機構	jīgōu	cơ cấu	cơ cấu/máy/đơn vị/cơ quan/tổ chức nội bộ/tổ chức bên trong/cơ cấu bên trong/cơ cấu nội bộ
 981	60.1	概念	概念	gàiniàn	khái niệm	khái niệm/quan niệm/ý niệm/nhận thức
 983	60.08	地点	地點	dìdiǎn	địa điểm	địa điểm/nơi/chỗ
-985	59.97	距离	距離	jùlí	cự ly/cự li	khoảng cách/cự ly/cách
+985	59.97	距离	距離	jùlí	cự li/cự ly	khoảng cách/cự ly/cách
 986	59.96	有效	有效	yǒuxiào	hữu hiệu	hữu hiệu/hiệu quả/hiệu nghiệm
 988	59.89	始终	始終	shǐzhōng	thủy chung	thủy chung/từ đầu đến cuối/trước sau
 990	59.84	必要	必要	bìyào	tất yếu	tất yếu/cần phải/cần thiết/thiết yếu/không thể thiếu/không thể khác/vật cần thiết/điều cần thiết
@@ -604,7 +604,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 1365	44.53	外语	外語	wàiyǔ	ngoại ngữ	ngoại ngữ/tiếng nước ngoài
 1366	44.45	自动	自動	zìdòng	tự động	tự động/tự
 1377	44.17	工业	工業	gōngyè	công nghiệp	công nghiệp/kỹ nghệ
-1378	44.13	纪念	紀念	jìniàn	kỷ niệm/kỉ niệm	kỷ niệm/tưởng niệm/đồ kỷ niệm/vật kỷ niệm
+1378	44.13	纪念	紀念	jìniàn	kỉ niệm/kỷ niệm	kỷ niệm/tưởng niệm/đồ kỷ niệm/vật kỷ niệm
 1380	44.06	青春	青春	qīngchūn	thanh xuân	thanh xuân/tuổi xanh/tuổi trẻ/tuổi xuân
 1387	43.99	心灵	心靈	xīnlíng	tâm linh	tâm linh/thông minh/sáng dạ/tâm hồn
 1390	43.94	连续	連續	liánxù	liên tục	liên tục/liên tiếp
@@ -613,7 +613,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 1399	43.79	整理	整理	zhěnglǐ	chỉnh lý	sửa sang lại/chỉnh lý/thu xếp/thu dọn/sửa sang/sắp xếp
 1404	43.68	操作	操作	cāozuò	thao tác	thao tác/làm việc/lao động
 1406	43.64	总结	總結	zǒngjié	tổng kết	tổng kết
-1411	43.23	合理	合理	hélǐ	hợp lý/hợp lí	hợp lý/có lý
+1411	43.23	合理	合理	hélǐ	hợp lí/hợp lý	hợp lý/có lý
 1413	43.1	巴黎	巴黎	bālí	ba lê	Pa-ri/Paris/Ba-lê/Ba Lê
 1419	42.98	花园	花園	huāyuán	hoa viên	hoa viên/vườn hoa
 1428	42.82	战略	戰略	zhànlvè	chiến lược	chiến lược/sách lược
@@ -717,7 +717,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 1691	36.08	天地	天地	tiāndì	thiên địa	thiên địa/trời đất/thế giới/tình cảnh/nông nỗi
 1694	36.06	攻击	攻擊	gōngjí	công kích	công kích/tiến công/tiến đánh/đánh/tấn công/chỉ trích/đả kích
 1700	35.94	旅馆	旅館	lv̌guǎn	lữ quán	khách sạn/lữ quán/quán trọ
-1701	35.92	行李	行李	xínglǐ	hành lý/hành lí	hành lý
+1701	35.92	行李	行李	xínglǐ	hành lí/hành lý	hành lý
 1703	35.9	对待	對待	dùidài	đối đãi	đối đãi/ở thế tương đối/liên quan với nhau/tương quan/đối xử/cư xử
 1704	35.89	民间	民間	mínjiān	dân gian	dân gian
 1705	35.88	协议	協議	xiéyì	hiệp nghị	hiệp nghị/hiệp thương/thoả thuận
@@ -740,7 +740,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 1739	35.12	比例	比例	bǐlì	tỉ lệ	tỉ lệ/tỉ số/gấp bao nhiêu lần
 1741	35.07	农业	農業	nóngyè	nông nghiệp	nông nghiệp
 1742	35.06	叔叔	叔叔	shūshū	thúc thúc	thúc thúc/chú
-1743	35.05	假如	假如	jiǎrú	giả như/giá như	nếu/giả như/giá như/nếu như/giả dụ
+1743	35.05	假如	假如	jiǎrú	giá như/giả như	nếu/giả như/giá như/nếu như/giả dụ
 1745	34.95	分子	分子	fēnzǐ	phân tử	phần tử/phân tử/phân số
 1750	34.86	山东	山東	shāndōng	sơn đông	Sơn Đông
 1753	34.81	伤心	傷心	shāngxīn	thương tâm	thương tâm/đau lòng
@@ -758,7 +758,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 1794	33.93	成果	成果	chéngguǒ	thành quả	thành quả/kết quả
 1797	33.88	地球	地球	dìqíu	địa cầu	địa cầu/trái đất/quả đất
 1799	33.82	师父	師父	shīfù	sư phụ	sư phụ
-1803	33.78	学期	學期	xuéqī	học kỳ/học kì	học kỳ
+1803	33.78	学期	學期	xuéqī	học kì/học kỳ	học kỳ
 1805	33.75	离婚	離婚	líhūn	li hôn/ly hôn	ly hôn/ly dị
 1808	33.67	穿过	穿過	chuānguò	xuyên qua	xuyên qua/đi qua/băng qua/vượt qua/ngang qua/vắt ngang/đâm thủng/lọt qua
 1812	33.65	武器	武器	wǔqì	vũ khí	vũ khí
@@ -832,7 +832,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 2051	29.24	平常	平常	píngcháng	bình thường	bình thường/giản dị/ngày thường
 2052	29.21	私人	私人	sīrén	tư nhân	tư nhân/cá nhân/người của mình
 2054	29.21	临时	臨時	línshí	lâm thời	lâm thời/đến lúc/đến khi/tạm thời
-2057	29.17	牺牲	犧牲	xīshēng	hy sinh/hi sinh	hy sinh/hi sinh/vật tế/súc vật làm vật tế
+2057	29.17	牺牲	犧牲	xīshēng	hi sinh/hy sinh	hy sinh/hi sinh/vật tế/súc vật làm vật tế
 2061	29.11	全体	全體	quántǐ	toàn thể	toàn thể
 2064	29.08	功夫	功夫	gōngfū	công phu	công phu/bản lãnh/bản lĩnh/trình độ/thời gian/công sức/võ thuật/kungfu
 2065	29.07	得意	得意	déyì	đắc ý	đắc ý/hài lòng/tâm đắc/hả dạ/đắc chí/hả hê/hoan hỉ
@@ -932,7 +932,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 2349	25.05	设立	設立	shèlì	thiết lập	thiết lập/thành lập/mở ra
 2351	25.03	秘书	祕書	mìshū	bí thư	bí thư/thư ký/công việc thư kí
 2353	25.02	装饰	裝飾	zhuāngshì	trang sức	trang sức/trang trí/đồ trang sức/đồ trang trí
-2354	25.01	登记	登記	dēngjì	đăng ký/đăng kí	đăng ký/vào sổ/ghi tên/khai
+2354	25.01	登记	登記	dēngjì	đăng kí/đăng ký	đăng ký/vào sổ/ghi tên/khai
 2356	24.99	顺便	順便	shùnbiàn	thuận tiện	thuận tiện/tiện thể/nhân tiện
 2358	24.96	加工	加工	jiāgōng	gia công	gia công/chế biến/công việc hoàn chỉnh sản phẩm
 2361	24.93	大事	大事	dàshì	đại sự	đại sự/việc lớn/việc hệ trọng/cố sức/ra sức/cật lực
@@ -948,7 +948,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 2404	24.49	紧急	緊急	jǐnjí	khẩn cấp	khẩn cấp/cấp bách/hiểm nghèo
 2405	24.49	统治	統治	tǒngzhì	thống trị	thống trị/chi phối/khống chế
 2408	24.45	象征	象徵	xiàngzhēng	tượng trưng	tượng trưng/biểu tượng
-2410	24.44	技能	技能	jìnéng	kỹ năng/kĩ năng	kỹ năng/năng lực
+2410	24.44	技能	技能	jìnéng	kĩ năng/kỹ năng	kỹ năng/năng lực
 2411	24.44	平等	平等	píngděng	bình đẳng	ngang hàng/bình đẳng/công bằng/bình quyền/bằng đẳng
 2412	24.4	坚定	堅定	jiāndìng	kiên định	kiên định/không dao động/kiên quyết/làm cho kiên định/giữ vững/củng cố
 2413	24.37	旅客	旅客	lv̌kè	lữ khách	lữ khách/hành khách
@@ -957,7 +957,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 2420	24.29	河南	河南	hénán	hà nam	Hà Nam/NAM/tỉnh Hà Nam
 2424	24.28	供应	供應	gōngyìng	cung ứng	cung ứng/cung cấp
 2426	24.27	积累	積累	jīlèi	tích lũy	tích lũy/tích luỹ/gom góp lại/chất chứa cho nhiều lên/vốn tích luỹ
-2427	24.27	纪元	紀元	jìyuán	kỷ nguyên/kỉ nguyên	kỷ nguyên
+2427	24.27	纪元	紀元	jìyuán	kỉ nguyên/kỷ nguyên	kỷ nguyên
 2432	24.2	遵守	遵守	zūnshǒu	tuân thủ	tuân thủ/giữ gìn/tôn trọng/giữ đúng
 2433	24.19	宇宙	宇宙	yǔzhòu	vũ trụ	vũ trụ/vạn vật/thế giới/suốt gầm trời
 2437	24.15	真诚	真誠	zhēnchéng	chân thành	chân thành/chân thật/thành thật
@@ -1064,7 +1064,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 2751	20.83	真理	真理	zhēnlǐ	chân lý	chân lý
 2754	20.81	运动员	運動員	yùndòngyuán	vận động viên	vận động viên
 2759	20.77	回报	回報	húibào	hồi báo	hồi báo/báo cáo/báo cáo với/báo đáp/báo ơn/đền ơn/báo thù/trả thù/phục thù/báo phục
-2760	20.76	物理	物理	wùlǐ	vật lý/vật lí	vật lý/lý lẽ/cái lý của sự vật/vật lí học
+2760	20.76	物理	物理	wùlǐ	vật lí/vật lý	vật lý/lý lẽ/cái lý của sự vật/vật lí học
 2767	20.67	婚礼	婚禮	hūnlǐ	hôn lễ	hôn lễ/lễ cưới/lễ thành hôn/lễ kết hôn/đám cưới
 2768	20.64	民工	民工	míngōng	dân công	dân công
 2769	20.63	悲剧	悲劇	bēijù	bi kịch	bi kịch/cảnh ngộ bất hạnh
@@ -1092,7 +1092,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 2832	20.12	装备	裝備	zhuāngbèi	trang bị	trang bị/đồ trang bị
 2837	20.06	神话	神話	shénhuà	thần thoại	thần thoại/chuyện hoang đường
 2841	20.04	布置	布置	bùzhì	bố trí	bố trí/sắp xếp/xếp đặt/bày biện/bài trí/trang trí/sắp đặt/thu xếp/tổ chức
-2842	20.04	期望	期望	qīwàng	kỳ vọng/kì vọng	kỳ vọng/chờ đợi/mong đợi
+2842	20.04	期望	期望	qīwàng	kì vọng/kỳ vọng	kỳ vọng/chờ đợi/mong đợi
 2846	20.01	指标	指標	zhǐbiāo	chỉ tiêu	chỉ tiêu/mức
 2862	19.9	结局	結局	jiéjú	kết cục	kết cục/kết quả/rốt cuộc
 2863	19.9	笔记	筆記	bǐjì	bút ký	bút ký/ghi chép/bài ghi chép
@@ -1164,7 +1164,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 3040	18.61	完毕	完畢	wánbì	hoàn tất	xong/hoàn tất/làm xong/xong xuôi
 3053	18.49	新年	新年	xīnnián	tân niên	tân niên/năm mới/tết Dương lịch
 3066	18.43	无力	無力	wúlì	vô lực	vô lực/không có sức/không có lực lượng/mệt mỏi
-3068	18.41	神奇	神奇	shénqí	thần kỳ/thần kì	thần kỳ/vô cùng kì diệu/kỳ lạ/thần bí
+3068	18.41	神奇	神奇	shénqí	thần kì/thần kỳ	thần kỳ/vô cùng kì diệu/kỳ lạ/thần bí
 3069	18.4	追究	追究	zhūijīu	truy cứu	truy cứu/truy vấn/truy xét
 3071	18.38	队长	隊長	dùicháng	đội trưởng	đội trưởng
 3073	18.38	指数	指數	zhǐshù	chỉ số	luỹ thừa/số mũ/chỉ số
@@ -1324,7 +1324,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 3654	15.04	高峰	高峰	gāofēng	cao phong	cao phong/đỉnh cao/đỉnh núi cao/cao điểm
 3655	15.04	菩萨	菩薩	púsà	bồ tát	Bồ Tát/Phật/thần Phật/tấm lòng Bồ tát
 3659	15.02	卫星	衛星	wèixīng	vệ tinh	vệ tinh/vệ tinh nhân tạo/thiên thể quay quanh hành tinh, bản thân nó không thể phát sáng, như mặt trăng là vệ tinh của trái đất
-3660	15.01	助理	助理	zhùlǐ	trợ lý/trợ lí	trợ lý/giúp việc
+3660	15.01	助理	助理	zhùlǐ	trợ lí/trợ lý	trợ lý/giúp việc
 3662	14.99	自在	自在	zìzài	tự tại	tự tại/tự do/không bị ràng buộc/an nhàn/dễ chịu/thanh thản
 3666	14.95	视觉	視覺	shìjué	thị giác	thị giác
 3668	14.93	证券	證券	zhèngquàn	chứng khoán	chứng khoán
@@ -1355,7 +1355,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 3741	14.63	自学	自學	zìxué	tự học	tự học
 3742	14.63	永恒	永恆	yǒnghéng	vĩnh hằng	vĩnh hằng/vĩnh viễn/mãi mãi/đời đời bền vững
 3744	14.62	会长	會長	hùicháng	hội trưởng	hội trưởng
-3748	14.61	武装	武裝	wǔzhuāng	vũ trang/võ trang	võ trang/vũ trang/trang bị
+3748	14.61	武装	武裝	wǔzhuāng	võ trang/vũ trang	võ trang/vũ trang/trang bị
 3751	14.6	操场	操場	cāocháng	thao trường	sân thể dục/thao trường/bãi tập
 3755	14.58	是非	是非	shìfēi	thị phi	thị phi/không phải là/là phi/đúng sai/phải trái/chuyện lôi thôi/điều rắc rối
 3759	14.57	冒险	冒險	màoxiǎn	mạo hiểm	mạo hiểm/phiêu lưu/liều lĩnh/vuốt râu cọp/nhắm mắt đưa chân
@@ -1549,7 +1549,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 4581	11.43	形态	形態	xíngtài	hình thái	hình thái/hình dạng/hình dáng
 4582	11.43	因果	因果	yīnguǒ	nhân quả	nhân quả/nguyên nhân và kết quả
 4584	11.42	众生	眾生	zhòngshēng	chúng sinh	chúng sinh
-4591	11.4	护理	護理	hùlǐ	hộ lý/hộ lí	hộ lý/người hộ lý/bảo vệ quản lý
+4591	11.4	护理	護理	hùlǐ	hộ lí/hộ lý	hộ lý/người hộ lý/bảo vệ quản lý
 4602	11.38	预备	預備	yùbèi	dự bị	dự bị/chuẩn bị/sửa soạn/sẵn sàng
 4603	11.38	英俊	英俊	yīngjùn	anh tuấn	anh tuấn/tài năng xuất chúng/khôi ngô tuấn tú/khôi ngô
 4604	11.37	字典	字典	zìdiǎn	tự điển	tự điển
@@ -1590,7 +1590,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 4731	11.01	尽情	盡情	jǐnqíng	tận tình	tận tình/thoả thích/thoả thuê/tận lòng/tha hồ/mặc sức
 4733	11.01	制品	製品	zhìpǐn	chế phẩm	chế phẩm/sản phẩm
 4735	11.0	主力	主力	zhǔlì	chủ lực	chủ lực/lực lượng chính
-4737	11.0	审美	審美	shěnměi	thẩm mỹ/thẩm mĩ	thẩm mỹ/khiếu thẩm mỹ
+4737	11.0	审美	審美	shěnměi	thẩm mĩ/thẩm mỹ	thẩm mỹ/khiếu thẩm mỹ
 4741	10.99	分散	分散	fēnsàn	phân tán	phân tán/phân chia/không tập trung/làm phân tán/phân phát/rải/tản mác
 4742	10.98	转让	轉讓	zhuǎnràng	chuyển nhượng	chuyển nhượng/để lại/nhượng lại/chuyển giao
 4744	10.98	示威	示威	shìwēi	thị uy	thị uy/tỏ rõ uy lực của bản thân/chứng tỏ sức mạnh của bản thân/ra oai/ra uy
@@ -1680,7 +1680,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 5175	9.93	辩论	辯論	biànlùn	biện luận	biện luận/bàn cãi/tranh luận
 5179	9.91	过渡	過渡	guòdù	quá độ	quá độ/chuyển sang/chuyển tiếp/giao thời
 5182	9.91	家教	家教	jiājiào	gia giáo	gia giáo
-5185	9.9	周期	週期	zhōuqī	chu kỳ/chu kì	chu kỳ
+5185	9.9	周期	週期	zhōuqī	chu kì/chu kỳ	chu kỳ
 5188	9.9	正宗	正宗	zhèngzōng	chính tông	chính tông/phái chính tông/chính thống/chân chính/chính cống
 5191	9.88	交际	交際	jiāojì	giao tế	giao tế/giao tiếp/xã giao/giao thiệp
 5196	9.87	大树	大樹	dàshù	đại thụ	đại thụ
@@ -1689,7 +1689,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 5204	9.84	罪犯	罪犯	zùifàn	tội phạm	tội phạm/kẻ phạm tội
 5207	9.83	亲属	親屬	qīnshǔ	thân thuộc	thân thuộc/thân quyến/người thân/họ hàng thân thuộc
 5212	9.82	万物	萬物	wànwù	vạn vật	vạn vật/muôn vật/mọi sự vật
-5215	9.82	奇妙	奇妙	qímiào	kỳ diệu/kì diệu	kỳ diệu/tinh xảo
+5215	9.82	奇妙	奇妙	qímiào	kì diệu/kỳ diệu	kỳ diệu/tinh xảo
 5216	9.82	定价	定價	dìngjià	định giá	định giá/giá quy định/giá nhất định
 5217	9.82	狐狸	狐狸	húlí	hồ ly	hồ ly/cáo
 5218	9.82	物资	物資	wùzī	vật tư	vật tư
@@ -2155,7 +2155,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 7267	6.49	机密	機密	jīmì	cơ mật	cơ mật/bí mật/chuyện cơ mật/việc cơ mật/việc bí mật
 7272	6.49	功效	功效	gōngxiào	công hiệu	công hiệu/công năng/hiệu suất/hiệu quả/hiệu lực/tác dụng
 7273	6.49	淑女	淑女	shúnv̌	thục nữ	thục nữ/người con gái đẹp và thuỳ mị
-7276	6.49	奇异	奇異	qíyì	kỳ dị/kì dị	kỳ dị/kỳ quái/quái lạ/lạ lẫm/kỳ lạ
+7276	6.49	奇异	奇異	qíyì	kì dị/kỳ dị	kỳ dị/kỳ quái/quái lạ/lạ lẫm/kỳ lạ
 7284	6.48	管家	管家	guǎnjiā	quản gia	quản gia/người quản lý
 7285	6.48	行使	行使	xíngshǐ	hành sử	hành sử/sử dụng
 7289	6.47	伯爵	伯爵	bójué	bá tước	bá tước
@@ -2279,7 +2279,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 7931	5.8	可观	可觀	kěguān	khả quan	khả quan/đáng xem/cao/lớn/to
 7939	5.79	书目	書目	shūmù	thư mục	thư mục/mục lục
 7943	5.79	视力	視力	shìlì	thị lực	thị lực/sức nhìn
-7944	5.79	海里	海裡	hǎilǐ	hải lý/hải lí	hải lý
+7944	5.79	海里	海裡	hǎilǐ	hải lí/hải lý	hải lý
 7960	5.77	佳人	佳人	jiārén	giai nhân	giai nhân/người đẹp/mỹ nhân
 7962	5.77	简易	簡易	jiǎnyì	giản dị	giản dị/giản đơn/thô sơ/mộc mạc
 7973	5.76	强壮	強壯	qiángzhuàng	cường tráng	cường tráng/khoẻ mạnh
@@ -2489,7 +2489,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 9111	4.84	中将	中將	zhōngjiāng	trung tướng	trung tướng
 9118	4.84	制裁	制裁	zhìcái	chế tài	chế tài/ngăn cấm/ngăn chặn/trừng phạt/trừng trị
 9119	4.84	漂流	漂流	piāolíu	phiêu lưu	phiêu lưu/lềnh bềnh/trôi nổi/phiêu bạt/lang thang/nay đây mai đó
-9125	4.84	骑兵	騎兵	qíbīng	kỵ binh/kị binh	kỵ binh
+9125	4.84	骑兵	騎兵	qíbīng	kị binh/kỵ binh	kỵ binh
 9140	4.82	泄露	洩露	xièlù	tiết lộ	tiết lộ/để lộ
 9151	4.81	完好	完好	wánhǎo	hoàn hảo	hoàn hảo/vẹn toàn/tốt đẹp
 9159	4.8	清明	清明	qīngmíng	thanh minh	thanh minh/trong sạch/thư thái/trấn tĩnh/thanh thản/trong sáng/sáng trong/tiết thanh minh
@@ -2540,7 +2540,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 9442	4.61	才子	才子	cáizǐ	tài tử	tài tử/kẻ tài hoa/người có tài
 9443	4.61	滥用	濫用	lànyòng	lạm dụng	lạm dụng/dùng sai/xài bậy
 9448	4.61	孝顺	孝順	xiàoshùn	hiếu thuận	hiếu thuận/có hiếu/hiếu thảo
-9456	4.6	姊姊	姊姊	zǐzǐ	tỷ tỷ/tỉ tỉ	tỷ tỷ
+9456	4.6	姊姊	姊姊	zǐzǐ	tỉ tỉ/tỷ tỷ	tỷ tỷ
 9467	4.59	解体	解體	jiětǐ	giải thể	giải thể/sự giải thể/sự tan rã/tan rã
 9480	4.58	氧气	氧氣	yǎngqì	dưỡng khí	dưỡng khí/khí ô-xy
 9498	4.57	魔王	魔王	mówáng	ma vương	ma vương/Ma vương/ác quỷ/quỷ dữ/kẻ ác độc/kẻ hung bạo
@@ -3160,7 +3160,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 13557	2.77	咽喉	咽喉	yānhóu	yết hầu	cổ họng/yết hầu/vị trí hiểm yếu/vị trí yết hầu
 13565	2.76	佛祖	佛祖	fózǔ	phật tổ	Phật tổ
 13571	2.76	长生	長生	chángshēng	trường sinh	trường sinh/sống lâu
-13577	2.76	妒忌	妒忌	dùjì	đố kỵ/đố kị	đố kỵ/ghen ghét
+13577	2.76	妒忌	妒忌	dùjì	đố kị/đố kỵ	đố kỵ/ghen ghét
 13579	2.76	十字军	十字軍	shízìjūn	thập tự quân	thập tự chinh/thập tự quân/đội quân chữ thập
 13581	2.76	未婚夫	未婚夫	wèihūnfū	vị hôn phu	vị hôn phu/chồng chưa cưới
 13587	2.76	定向	定向	dìngxiàng	định hướng	định hướng/xác định phương hướng/phương hướng nhất định/phương hướng
@@ -3206,7 +3206,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 13907	2.66	蝎子	蠍子	hézǐ	hạt tử	hạt tử/con bò cạp
 13911	2.66	音调	音調	yīndiào	âm điệu	âm điệu/giọng
 13921	2.65	防卫	防衛	fángwèi	phòng vệ	phòng vệ/phòng ngự/bảo vệ/phòng ngự và bảo vệ
-13924	2.65	伎俩	伎倆	jìliǎ	kỹ lưỡng/kĩ lưỡng	kỹ xảo/kỹ lưỡng/ngón/mánh khoé/trò/thủ đoạn/ngón trò
+13924	2.65	伎俩	伎倆	jìliǎ	kĩ lưỡng/kỹ lưỡng	kỹ xảo/kỹ lưỡng/ngón/mánh khoé/trò/thủ đoạn/ngón trò
 13929	2.65	周游	周遊	zhōuyóu	chu du	chu du/đi du lịch khắp nơi/đi khắp nơi;chu du/đi khắp/đi khắp nơi
 13935	2.65	官吏	官吏	guānlì	quan lại	quan lại/công chức/viên chức
 13942	2.65	大宝	大寶	dàbǎo	đại bảo	đại bảo/ngôi hoàng đế/bảo bối/vật báu/Phật pháp/khối vàng
@@ -3253,7 +3253,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 14279	2.56	还手	還手	huánshǒu	hoàn thủ	hoàn thủ/đánh trả/đánh lại/giáng trả/trả đòn
 14288	2.55	集结	集結	jíjié	tập kết	tập kết/tụ lại/tụ tập
 14297	2.55	句法	句法	jùfǎ	cú pháp	cú pháp/cách đặt câu/phép đặt câu/phần cú pháp
-14320	2.54	离异	離異	líyì	ly dị/li dị	ly dị/ly hôn
+14320	2.54	离异	離異	líyì	li dị/ly dị	ly dị/ly hôn
 14332	2.53	大闹	大鬧	dànào	đại náo	đại náo
 14337	2.53	战舰	戰艦	zhànjiàn	chiến hạm	chiến hạm/tàu chiến
 14339	2.53	淫荡	淫蕩	yíndàng	dâm đãng	dâm đãng/dâm dật/dâm loạn
@@ -3502,7 +3502,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 16316	2.08	反光	反光	fǎnguāng	phản quang	phản quang/phản chiếu/ánh sáng phản chiếu
 16345	2.07	再造	再造	zàizào	tái tạo	tái tạo/làm sống lại
 16353	2.07	对答	對答	dùidá	đối đáp	đối đáp/trả lời
-16357	2.07	寄生	寄生	jìshēng	ký sinh/kí sinh	ký sinh/sống nhờ/chùm gởi/ăn bám
+16357	2.07	寄生	寄生	jìshēng	kí sinh/ký sinh	ký sinh/sống nhờ/chùm gởi/ăn bám
 16360	2.07	元宵	元宵	yuánxiāo	nguyên tiêu	nguyên tiêu/đêm rằm tháng giêng/bánh nguyên tiêu/bánh trôi/chè trôi nước
 16361	2.07	超脱	超脫	chāotuō	siêu thoát	siêu thoát/thoải mái/không gò bó/độc đáo/phóng khoáng/vượt ra ngoài/thoát ra ngoài/thoát khỏi/từ bỏ/li khai
 16364	2.07	交手	交手	jiāoshǒu	giao thủ	giao thủ/vật lộn/đánh nhau/hai bên đánh nhau
@@ -3575,7 +3575,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 16924	1.95	暗号	暗號	ànhào	ám hiệu	ám hiệu/mật mã/mật hiệu
 16926	1.95	星云	星雲	xīngyún	tinh vân	tinh vân
 16932	1.95	私利	私利	sīlì	tư lợi	tư lợi
-16933	1.95	绝技	絕技	juéjì	tuyệt kỹ/tuyệt kĩ	tuyệt kỷ/tuyệt kỹ/tài nghệ tuyệt vời/kỳ tài
+16933	1.95	绝技	絕技	juéjì	tuyệt kĩ/tuyệt kỹ	tuyệt kỷ/tuyệt kỹ/tài nghệ tuyệt vời/kỳ tài
 16935	1.95	危难	危難	wēinán	nguy nan	nguy nan/nguy hiểm và tai hoạ/nguy hiểm khó khăn
 16959	1.95	生灵	生靈	shēnglíng	sinh linh	sinh linh/nhân dân
 16968	1.95	半径	半徑	bànjìng	bán kính	bán kính
@@ -3767,7 +3767,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 18629	1.65	黄泉	黃泉	huángquán	hoàng tuyền	hoàng tuyền/suối vàng/âm phủ
 18631	1.65	排泄	排泄	páixiè	bài tiết	bài tiết/rửa sạch/tháo nước/thoát nước/bài xuất/thải ra
 18634	1.65	开胃	開胃	kāiwèi	khai vị	khai vị/kích thích ăn uống/khiến ăn ngon miệng/đùa bỡn/đùa giỡn/vui mừng
-18637	1.65	履历	履歷	lv̌lì	lý lịch/lí lịch	lý lịch/bản lý lịch
+18637	1.65	履历	履歷	lv̌lì	lí lịch/lý lịch	lý lịch/bản lý lịch
 18647	1.64	雷霆	雷霆	léitíng	lôi đình	lôi đình/sấm sét/sấm chớp/nổi trận lôi đình/cơn giận dữ dội
 18649	1.64	武学	武學	wǔxué	võ học	võ học
 18650	1.64	金牛	金牛	jīnníu	kim ngưu	Kim Ngưu
@@ -4374,7 +4374,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 26252	0.8	先帝	先帝	xiāndì	tiên đế	tiên đế/vua đời trước
 26262	0.8	血清	血清	xiěqīng	huyết thanh	huyết thanh
 26282	0.8	产科	產科	chǎnkē	sản khoa	sản khoa/khoa sản
-26285	0.8	玉玺	玉璽	yùxǐ	ngọc tỷ/ngọc tỉ	ngọc tỷ/ngọc tỉ/ấn ngọc/ấn vua
+26285	0.8	玉玺	玉璽	yùxǐ	ngọc tỉ/ngọc tỷ	ngọc tỷ/ngọc tỉ/ấn ngọc/ấn vua
 26291	0.8	父兄	父兄	fùxiōng	phụ huynh	phụ huynh/cha và anh
 26296	0.8	白莲	白蓮	báilián	bạch liên	Bạch Liên
 26305	0.8	受戒	受戒	shòujiè	thụ giới	thụ giới/chịu giới luật
@@ -4448,7 +4448,7 @@ chinese word ranking	frequency	word	traditional	pinyin	hanviet	meaning
 27311	0.73	道友	道友	dàoyǒu	đạo hữu	đạo hữu
 27327	0.73	情郎	情郎	qíngláng	tình lang	tình lang/người yêu
 27335	0.73	斗法	鬥法	dǒufǎ	đấu pháp	đấu pháp/ngầm đấu đá
-27337	0.73	离心	離心	líxīn	ly tâm/li tâm	ly tâm/xa rời tập thể/lục đục/không đoàn kết/không cùng lòng với tập thể
+27337	0.73	离心	離心	líxīn	li tâm/ly tâm	ly tâm/xa rời tập thể/lục đục/không đoàn kết/không cùng lòng với tập thể
 27339	0.73	说客	說客	shuōkè	thuyết khách	thuyết khách/người có tài ăn nói/người có tài thuyết phục
 27413	0.72	平易	平易	píngyì	bình dị	khiêm tốn/ôn hoà/bình dị/giản dị/dễ hiểu/mộc mạc dễ hiểu
 27438	0.72	王权	王權	wángquán	vương quyền	vương quyền
